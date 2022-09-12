@@ -1,0 +1,17 @@
+fun main() {
+    println("Happy Birthday, Adam!")
+    
+    // Let's print a cake!
+    println("   ,,,,,   ")
+    println("   |||||   ")
+    println(" =========")
+    println("@@@@@@@@@@@")
+    println("{~@~@~@~@~}")
+    println("@@@@@@@@@@@")
+    
+    // This prints an empty line.
+    println("")
+
+    println("You are already 20!")
+    println("20 is the very best age to celebrate!")
+}
